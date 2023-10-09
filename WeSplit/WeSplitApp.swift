@@ -1,9 +1,9 @@
 //
-//  WeSplitApp.swift
-//  WeSplit
+// WeSplitApp.swift
+// WeSplit
 //
-//  Created by philip sidell on 10/9/23.
-//
+// Created by Tensai Solutions on 10/9/23
+// Copyright © 2023 Tensai Solutions. All rights reserved.
 
 import SwiftUI
 
